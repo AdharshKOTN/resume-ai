@@ -1,4 +1,4 @@
-import FileUploader from "@/components/FileUploader";
+import FileUploader from "../components/FileUploader";
 import Image from "next/image";
 export default function Home() {
 
@@ -12,6 +12,7 @@ export default function Home() {
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         
       </footer>
+      <script src="C:\Users\AJ\resume-ai\frontend\node_modules\flowbite\dist\flowbite.min.js"></script>
     </div>
   );
 }
